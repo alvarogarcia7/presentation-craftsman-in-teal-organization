@@ -46,7 +46,10 @@ Note: Valve produces software games and related products. Produces Steam, and th
     * Self-management
     * Evolutionary purpose
 
-Note: test 1. The organization is filled with people. What is wholeness for individuals within their organizational context?  2. The organization is an entity in itself. What is wholeness for the organization as a living system, an organism in its own right?  3. The organization occupies a position in relation to the world. What does wholeness mean in its external being – its connection with planet and society?
+Note: test 1. 
+  * Wholeness: how the people, team, company relates to its environment.
+  * self-management: organization without a permanent leader. no job descriptions
+  * purpose: not being tied to a single purpose makes it easier.
 
 
 ## Characteristics (II)
@@ -62,7 +65,7 @@ Note: other metaphors for organizations are Whereas Achievement-Orange speaks of
 
 
 ## Do craftsmen fit in a Teal organization?
-
+Note: all of what I've explained has no relationship with craftsmanship. How does all of this affect us? What can we do get the most of it?
 
 ## Fluid roles
   * Find time for *developer tasks* that are not **programming**:
