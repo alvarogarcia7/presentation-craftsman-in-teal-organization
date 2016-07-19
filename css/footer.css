@@ -1,0 +1,12 @@
+div.footer {
+  font-family: sans-serif;
+  display: block;
+  position: absolute;
+  bottom: 1em;
+  left: 1em;
+
+  font-size: medium;
+
+  z-index: 20;
+  color: white;
+}
