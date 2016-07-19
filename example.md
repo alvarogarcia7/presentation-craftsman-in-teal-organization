@@ -46,16 +46,18 @@ Note: Valve produces software games and related products. Produces Steam, and th
     * Self-management
     * Evolutionary purpose
 
-Note: test 1. 
-  * Wholeness: how the people, team, company relates to its environment.
-  * self-management: organization without a permanent leader. no job descriptions
-  * purpose: not being tied to a single purpose makes it easier.
+Note: 
+* Wholeness: how the people, team, company relates to its environment.
+* self-management: organization without a permanent leader. no job descriptions
+* purpose: not being tied to a single purpose makes it easier.
 
 
 ## Characteristics (II)
   * Metaphor: living organism
 
-Note: other metaphors for organizations are Whereas Achievement-Orange speaks of organizations as machines and Pluralistic-Green uses the metaphor of families, Teal organizations refer to themselves as living organisms or living systems.
+Note: 
+* Comparison: Achievement-Orange: machines, Pluralistic-Green as families, Teal organizations as living organisms or living systems.
+* changing and morphing in response to the needs and constraints it encounters as it tries to serve its purpose as much as possible.
 
 
 ## Characteristics (III)
