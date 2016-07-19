@@ -1,7 +1,6 @@
 ## The craftsman's role in a Teal Organization
 
   * Alvaro Garcia (@alvarobiz)
-  * 2016-07-21, LSCC at Skills Matter
 
 
 
