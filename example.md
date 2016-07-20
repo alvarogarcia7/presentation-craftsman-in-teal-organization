@@ -124,4 +124,12 @@ Note:
 
 
 
+# Sources
+  * [Valve's Handbook for new employees](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf). Accessed 2016-07-01
+  * [Reiventing Organizations](http://www.reinventingorganizations.com/), by F. Laloux
+  * [Is Teal The New Black? Probably Not](http://social-labs.com/is-teal-the-new-black/), by Zaid Hassan. Accessed 2016-07-01
+
+
+
+
 # Thanks!
