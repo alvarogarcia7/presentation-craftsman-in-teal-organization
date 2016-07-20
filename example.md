@@ -116,8 +116,9 @@ Note:
 
 # Conclusions
   * Teal might not be for you
+  * Use Teal with a grain of salt
   * With power comes responsibility
-  * Recommend the book
+  * Recommend the book, not endorsing it
 
 
 
