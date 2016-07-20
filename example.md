@@ -18,6 +18,7 @@
     * Examples
     * Characteristics
     * What defines it?
+    * Opposing views
   * The craftsmen
     * Fluid roles
     * Decide your own career
@@ -72,6 +73,14 @@ Note:
 Note:
 * Small orgs, at least around you. There can be miniorgs (8-10-12 people), but hundreds of them.
 * Staff functions (HR, finance, risk, ...) usually done by front-line teams, with exceptions: hired hands, central support staff without top-down authority
+
+
+## Opposing views (for the book)
+
+  * Questioning Laloux views and basis
+  * Research in opposite direction
+  * Hand-picked case studies
+  * Bias - author's ideology
 
 
 
