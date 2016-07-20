@@ -21,7 +21,6 @@
   * The craftsmen
     * Fluid roles
     * Decide your own career
-    * Organization size and team seniority
     * Development and Business partnership 
   * Sources
 
@@ -99,13 +98,6 @@ Note:
   * Within or outside the company
 
 
-## Organization size and team seniority
-  * More career time
-  * Less guidance
-  * Leading by example
-  * Swings both ways
-
-
 ## Development and Business partnership
   * Simpler when both are powerful
   * Fair treatment for both
@@ -128,7 +120,6 @@ Note:
   * [Valve's Handbook for new employees](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf). Accessed 2016-07-01
   * [Reiventing Organizations](http://www.reinventingorganizations.com/), by F. Laloux
   * [Is Teal The New Black? Probably Not](http://social-labs.com/is-teal-the-new-black/), by Zaid Hassan. Accessed 2016-07-01
-
 
 
 
