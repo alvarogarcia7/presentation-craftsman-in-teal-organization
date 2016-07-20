@@ -37,7 +37,12 @@ Note: Valve produces software games and related products. Produces Steam, and th
 
 
 # The Teal organization
-  * Reinventing Organizations by Frederic Laloux
+
+
+<div style="text-align:center">
+<img src="images/book.jpg" width="80%">
+</div>
+Reinventing Organizations by Frederic Laloux
 
 
 ## Characteristics (I)
