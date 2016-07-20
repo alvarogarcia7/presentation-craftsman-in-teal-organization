@@ -22,7 +22,7 @@
   * The craftsmen
     * Fluid roles
     * Decide your own career
-    * Development and Business partnership 
+    * Development & Business partnership 
   * Sources
 
 
