@@ -67,7 +67,7 @@ Note:
 
 ## Characteristics (III)
   * Small orgs
-  * Skunk works
+  * ~Skunk works
   * Staff functions
 
 Note:
