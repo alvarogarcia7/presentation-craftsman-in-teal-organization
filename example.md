@@ -62,12 +62,18 @@ Note:
 
 ## Characteristics (III)
   * Small orgs
+  * Skunk works
   * Staff functions
+
+Note:
+* Small orgs, at least around you. There can be miniorgs (8-10-12 people), but hundreds of them.
+* Staff functions (HR, finance, risk, ...) usually done by front-line teams, with exceptions: hired hands, central support staff without top-down authority
 
 
 
 ## Do craftsmen fit in a Teal organization?
 Note: all of what I've explained has no relationship with craftsmanship. How does all of this affect us? What can we do get the most of it?
+
 
 ## Fluid roles
   * Find time for *developer tasks* that are not **programming**:
@@ -76,6 +82,10 @@ Note: all of what I've explained has no relationship with craftsmanship. How doe
     * Leadership
     * Coaching, mentoring
   * Not a punishment, but voluntary
+
+Note: 
+* marketing, finances, closing deals, communication, ...
+* always voluntary: task force or fluid roles
 
 
 ## Decide your own career
@@ -89,6 +99,7 @@ Note: all of what I've explained has no relationship with craftsmanship. How doe
   * Less guidance
   * Leading by example
   * Swings both ways
+
 
 ## Development and Business partnership
   * Simpler when both are powerful
